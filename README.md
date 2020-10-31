@@ -7,9 +7,9 @@ Estas listas se estaran actualizando periodicamente, cuando se encuentre algún 
 
 ```markdown
 # Lista random de anuncios y trackers.
- - https://raw.githubusercontent.com/Exosunandnet/pi-hosts/master/listas/pi-random.txt
+ - https://raw.githubusercontent.com/Exosunandnet/pi-block/main/listas/pi-random.txt
 # Lista de Twitch para bloquear anuncios.
- - https://raw.githubusercontent.com/Exosunandnet/pi-hosts/master/listas/pi-twitch-ads.txt
+ - https://raw.githubusercontent.com/Exosunandnet/pi-block/main/listas/pi-twitch-ads.txt
 ```
 
 ### Soporte
