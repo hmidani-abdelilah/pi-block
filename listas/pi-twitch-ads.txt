@@ -1,0 +1,17 @@
+# Blocklist for use with hosts files to block ads, trackers, and other nasty things on Twitch
+#             
+# For more information about this list, see: 
+# ----           
+# create         31/10/2020
+# modificate     31/19/2020
+# format:        file.txt
+# credits:       Exosunandnet 
+# this URL:      
+# ----
+
+0.0.0.0 api.mixpanel.com 
+0.0.0.0 spade.twitch.com 
+0.0.0.0 pubads.g.doubleclick.net 
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 pubsub-edge.twitch.tv
+
